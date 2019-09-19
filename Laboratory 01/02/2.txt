@@ -1,0 +1,23 @@
+Utilizando el archivo asm para el inciso anterior, responder lo siguiente. 
+
+Cuando se genera el archivo obj a partir del archivo “.asm” ¿Qué información nos muestra en consola y qué significa?
+
+Al momento de que se genera el archivo .obj a partir del archivo .asm nos muestra la información de la versión de TurboAssebler que estamos utilizando, el nombre de nuestro archivo .asm, nos notiifica si tenemos
+algún error o advertencia detro de nuestro programa escrito previamente, la cantidad de etapas de procesamiento del archivo fuente completo de principio a fin (passes) y por último muestra la memoria que queda
+restante.
+
+¿En qué punto se crea el archivo ejecutable?
+
+Luego de ejecutar la instrucción 'TLINK.exe 'nombredelarchivo'.obj
+
+¿Cuál es la interrupción utilizada para imprimir una cadena de caracteres?
+
+09h
+
+¿Cuál es la interrupción para imprimir solamente un caracter?
+
+02h
+
+¿Qué registros entran en juego al ejecutar una interrupción de la serie 21h?
+
+DX & AH
