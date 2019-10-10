@@ -15,4 +15,8 @@ This laboratory practice was focused in how to use de Debugger in ASM
 and decide which command to use depending on what we want to find out
 ## Laboratory 03 - Basic arithmetic operations
 This laboratory practice was focused in how to make basic arithmetic operations
-between two numbers considering a carry without it
+between two numbers considering a carry without 
+## Laboratory 04 - Basica arithmetic operations using ASM Labels
+This laboratory practice was focused in how to compare two numbers to determine
+the bigger one, the smallest or if they are the same number and using special sucecive operations
+to make common basic arithmetic operations as multiplication and division (DIV & MOD)
