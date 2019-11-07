@@ -26,3 +26,6 @@ approved
 ## Laboratory 06 - Basic string usage
 This laboratory practice was focused in how to use string in ASM, using some basic operations as
 comparing and checking out the content of them
+## Laboratory 07 - Basic usage of MASM
+This laboratory practice was focused in how to use MASM with Visual Studio IDE and making
+the basic operations between two numbers and then comparing them
