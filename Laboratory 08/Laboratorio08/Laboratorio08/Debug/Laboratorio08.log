@@ -1,0 +1,3 @@
+﻿  Assembling LAB08.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Laboratorio08.vcxproj -> C:\Users\PREDATOR\Desktop\Laboratorio08\Debug\Laboratorio08.exe

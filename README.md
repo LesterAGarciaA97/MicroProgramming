@@ -29,3 +29,6 @@ comparing and checking out the content of them
 ## Laboratory 07 - Basic usage of MASM
 This laboratory practice was focused in how to use MASM with Visual Studio IDE and making
 the basic operations between two numbers and then comparing them
+## Laboratory 08 - Factorial of a number using MASM
+This laboratory practice was focused in how to use MASM to calculate the factorial result
+of a number between 0 to 120
