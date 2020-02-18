@@ -32,3 +32,7 @@ the basic operations between two numbers and then comparing them
 ## Laboratory 08 - Factorial of a number using MASM
 This laboratory practice was focused in how to use MASM to calculate the factorial result
 of a number between 0 to 120
+## Project 01 - Snake
+This application project was focused in using basic ASM instructions and programming skills to build a snake game
+## Project 02 - KeyLogger
+This application project was focused in using basic MASM instructions and programming skills to build a key logger application
